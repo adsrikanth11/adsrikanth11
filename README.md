@@ -26,7 +26,7 @@ My expertise lies in building scalable backend systems, designing high-performan
 
 ## 🧑‍💻 About Me
 
-- 💼 **Professional Experience:** 6+ years as a Full Stack Developer
+- 💼 **Professional Experience:** 7 years as a Full Stack Developer
 - 🌐 **Specialization:** MEAN Stack Development (MongoDB, Express.js, Angular, Node.js) & MySQL
 - 🧠 **Interests:** System Design, Scalable Architecture, High-Performance APIs
 - ⚡ **Focus:** Clean Code, Maintainability, and Production-Ready Applications
